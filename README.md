@@ -31,6 +31,3 @@ I am a full-stack Software Engineer with PERN stack experience based in sunny Ca
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
