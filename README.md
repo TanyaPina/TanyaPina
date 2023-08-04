@@ -8,7 +8,8 @@
 
 
 I am a full-stack Software Engineer with PERN stack experience based in sunny California ☀️.  With a background in customer service and a degree in Anthropology, I thrive in dynamic environments where I can leverage my skills to create innovative web applications that deliver meaningful user experiences. 🤝  
-  
+<br/>
+[Portfolio](https://tanyapina.vercel.app/) 💼
 
 <br/>  
 
